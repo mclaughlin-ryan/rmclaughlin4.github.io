@@ -16,8 +16,6 @@
 
 An engineering course project, this heart valve was designed as a group effort with the goal of achieving natural valve hemodynamics and a durable implant using a trileaflet architecture and wear-resistant materials.
 
-[check.pdf](https://rmclaughlin-projects.github.io/Artificial%20aortic%20valve%20project%20presentation.pdf)
-
 <object data="https://rmclaughlin-projects.github.io/Artificial%20aortic%20valve%20project%20presentation.pdf" type="application/pdf" width="960px" height="594px">
   <embed src="https://rmclaughlin-projects.github.io/Artificial%20aortic%20valve%20project%20presentation.pdf" type="application/pdf" />
 </object>
@@ -26,7 +24,7 @@ An engineering course project, this heart valve was designed as a group effort w
 
 This reconstructive breast implant was designed and developed with fellow engineering students for a senior course project. With the goal of providing breast reconstruction to patients who had undergone a mastectomy operation, this implant was developed by the curing of silicone in a 3D printed mold to form a single-lumen shell capable of retaining fluid and withstanding outside stresses.
 
-<object data="https://rmclaughlin-projects.github.io/Reconstructive%20breast%20implant%20project%20summary.pdf" type="application/pdf" width="960px" height="540px">
+<object data="https://rmclaughlin-projects.github.io/Reconstructive%20breast%20implant%20project%20summary.pdf" type="application/pdf" width="960px" height="594px">
   <embed src="https://rmclaughlin-projects.github.io/Reconstructive%20breast%20implant%20project%20summary.pdf" type="application/pdf" />
 </object>
 
