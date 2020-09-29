@@ -32,7 +32,7 @@ Investigating the impact of air pollution on health, specifically particulate ma
 
 ## CAD Sample
 
-### Chess Piece Model
+### Chess Piece
 
 This is a CAD assembly of the king chess piece created as part of a themed group project for an engineering solid modeling course.
 
