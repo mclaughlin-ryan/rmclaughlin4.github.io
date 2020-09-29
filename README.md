@@ -29,7 +29,7 @@ An engineering course project, this heart valve was designed as a group effort w
 <object data="https://github.com/rmclaughlin-projects/rmclaughlin-projects.github.io/blob/master/Artificial%20aortic%20valve%20project%20presentation.pdf" type="application/pdf" width="100%">
 </object>
 
-[check.pdf](https://rmclaughlin-projects.github.io/Artificial aortic valve project presentation.pdf)
+[check.pdf](https://rmclaughlin-projects.github.io/Artificial%20aortic%20valve%20project%20presentation.pdf)
 
 ### Reconstructive Breast Implant
 
