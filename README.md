@@ -16,6 +16,24 @@
 
 ## Medical Device Projects
 
+### Artifical Aortic Heart Valve
+
+An engineering course project, this heart valve design was created as group a effort with the goal of achieving natural valve hemodynamics and a durable implant using a trileaflet architecture and wear-resistant materials.
+
+### Reconstructive Breast Implant
+
+This
+
 ## Research
 
+### Effect of outdoor particulate matter exposure on the human airway's ability to fight bacteria
+
+Investigating the impact of air pollution on health, specifically particulate matter, this project focuses on the mechanism of how the human airway's antibacterial properties are affected upon inhaling particulate matter. Simulating this phenomenon using bench-top methods, samples of particulate matter, bacterial cultures, and antibacterial fluid native to the airway were intermixed to gain insight into the processes behind this
+
 ## CAD Sample
+
+### Chess Piece
+
+This CAD assembly of the king chess piece was created as part of a themed group project for an engineering solid modeling course.
+
+
