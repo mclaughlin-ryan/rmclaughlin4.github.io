@@ -24,7 +24,6 @@ An engineering course project, this heart valve was designed as a group effort w
 </embed>
 
 <embed src="https://rmclaughlin-projects.github.io/Artificial%20aortic%20valve%20project%20presentation.pdf" type="application/pdf">
-</embed>
 
 <object data="https://github.com/rmclaughlin-projects/rmclaughlin-projects.github.io/blob/master/Artificial%20aortic%20valve%20project%20presentation.pdf" type="application/pdf" width="100%">
 </object>
