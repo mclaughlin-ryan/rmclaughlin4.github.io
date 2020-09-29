@@ -44,7 +44,7 @@ Video of water retention test after injecting water into the implant
 
 Investigating the impact of air pollution on health, specifically particulate matter, this project focuses on the mechanism of how the human airway's antibacterial properties are affected upon inhaling particulate matter. Simulating this phenomenon using bench-top methods, samples of particulate matter, bacterial cultures, and antibacterial fluid native to the human airway were intermixed to gain insight into the biological effects of this commonplace occurrence.
 
-<img src="Particulate matter environmental health research project.png" width="960px" height="720px">
+<img src="Particulate matter environmental health research project.png" width="800px" height="600px">
 
 ## CAD Sample
 
