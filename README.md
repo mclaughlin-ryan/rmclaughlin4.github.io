@@ -18,6 +18,8 @@
 
 An engineering course project, this heart valve was designed as a group effort with the goal of achieving natural valve hemodynamics and a durable implant using a trileaflet architecture and wear-resistant materials.
 
+
+
 ### Reconstructive Breast Implant
 
 This reconstructive breast implant was designed and developed with fellow engineering students for a senior course project. With the goal of providing breast reconstruction to patients who had undergone a mastectomy operation, this implant was developed by the curing of silicone in a 3D printed mold to form a single-lumen shell capable of retaining fluid and withstanding outside stresses.
