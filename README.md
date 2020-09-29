@@ -50,4 +50,4 @@ This is a CAD assembly of a king chess piece created in Creo Parametric as part 
 
 <p style="margin-left: 30>
   <img src="king chess piece Creo design.png" width="320px" height="420px">
-                                                                          </p>
+</p>
