@@ -29,6 +29,8 @@ An engineering course project, this heart valve was designed as a group effort w
 <object data="https://github.com/rmclaughlin-projects/rmclaughlin-projects.github.io/blob/master/Artificial%20aortic%20valve%20project%20presentation.pdf" type="application/pdf" width="100%">
 </object>
 
+[check.pdf](https://rmclaughlin-projects.github.io/Artificial aortic valve project presentation.pdf)
+
 ### Reconstructive Breast Implant
 
 This reconstructive breast implant was designed and developed with fellow engineering students for a senior course project. With the goal of providing breast reconstruction to patients who had undergone a mastectomy operation, this implant was developed by the curing of silicone in a 3D printed mold to form a single-lumen shell capable of retaining fluid and withstanding outside stresses.
