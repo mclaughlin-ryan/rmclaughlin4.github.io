@@ -18,22 +18,22 @@
 
 ### Artifical Aortic Heart Valve
 
-An engineering course project, this heart valve design was created as a group effort with the goal of achieving natural valve hemodynamics and a durable implant using a trileaflet architecture and wear-resistant materials.
+An engineering course project, this heart valve was designed as a group effort with the goal of achieving natural valve hemodynamics and a durable implant using a trileaflet architecture and wear-resistant materials.
 
 ### Reconstructive Breast Implant
 
-This
+This reconstructive breast implant was designed and developed with fellow engineering students for a senior course project. With the goal of providing breast reconstruction to patients who had undergone a mastectomy operation, this implant was developed by the curing of silicone in a 3D printed mold to form a single-lumen shell capable of retaining fluid and withstanding outside stresses.
 
 ## Research
 
 ### Effect of outdoor particulate matter exposure on the human airway's ability to fight bacteria
 
-Investigating the impact of air pollution on health, specifically particulate matter, this project focuses on the mechanism of how the human airway's antibacterial properties are affected upon inhaling particulate matter. Simulating this phenomenon using bench-top methods, samples of particulate matter, bacterial cultures, and antibacterial fluid native to the airway were intermixed to gain insight into the processes behind this
+Investigating the impact of air pollution on health, specifically particulate matter, this project focuses on the mechanism of how the human airway's antibacterial properties are affected upon inhaling particulate matter. Simulating this phenomenon using bench-top methods, samples of particulate matter, bacterial cultures, and antibacterial fluid native to the human airway were intermixed to gain insight into the processes behind this commonplace occurrence.
 
 ## CAD Sample
 
 ### Chess Piece
 
-This CAD assembly of the king chess piece was created as part of a themed group project for an engineering solid modeling course.
+This is a CAD assembly of the king chess piece created as part of a themed group project for an engineering solid modeling course.
 
 
