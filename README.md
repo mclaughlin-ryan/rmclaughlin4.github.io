@@ -24,7 +24,7 @@ This reconstructive breast implant was designed and developed with fellow engine
 
 ## Research
 
-### Effect of outdoor particulate matter inhalation on the human airway's ability to fight bacteria
+### Effect of outdoor particulate matter exposure on the human airway's ability to fight bacteria
 
 Investigating the impact of air pollution on health, specifically particulate matter, this project focuses on the mechanism of how the human airway's antibacterial properties are affected upon inhaling particulate matter. Simulating this phenomenon using bench-top methods, samples of particulate matter, bacterial cultures, and antibacterial fluid native to the human airway were intermixed to gain insight into the biological effects of this commonplace occurrence.
 
