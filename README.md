@@ -18,7 +18,7 @@
 
 ### Artifical Aortic Heart Valve
 
-An engineering course project, this heart valve design was created as group a effort with the goal of achieving natural valve hemodynamics and a durable implant using a trileaflet architecture and wear-resistant materials.
+An engineering course project, this heart valve design was created as a group effort with the goal of achieving natural valve hemodynamics and a durable implant using a trileaflet architecture and wear-resistant materials.
 
 ### Reconstructive Breast Implant
 
