@@ -10,8 +10,6 @@
   <a href="https://rmclaughlin-projects.github.io/#cad-sample">CAD Sample</a>
 </p>
 
-[Medical Device Projects](https://rmclaughlin-projects.github.io/#medical-device-projects) | [Research](https://rmclaughlin-projects.github.io/#research) | [CAD Sample](https://rmclaughlin-projects.github.io/#cad-sample)
-
 ## Medical Device Projects
 
 ### Artifical Aortic Heart Valve
