@@ -11,8 +11,8 @@
 An engineering course project, this heart valve was designed as a group effort with the goal of achieving natural valve hemodynamics and a durable implant using a trileaflet architecture and wear-resistant materials.
 
 <p align="center">
-  <object data="https://rmclaughlin-projects.github.io/Artificial%20aortic%20valve%20project%20presentation.pdf" type="application/pdf" width="800px" height="500px">
-    <embed src="https://rmclaughlin-projects.github.io/Artificial%20aortic%20valve%20project%20presentation.pdf" type="application/pdf" />
+  <object data="Artificial%20aortic%20valve%20project%20presentation.pdf" type="application/pdf" width="800px" height="500px">
+    <embed src="Artificial%20aortic%20valve%20project%20presentation.pdf" type="application/pdf" />
   </object>
 </p>
 
