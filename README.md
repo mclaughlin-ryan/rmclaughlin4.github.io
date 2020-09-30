@@ -1,4 +1,4 @@
-[create an anchor](#medical-device-projects | #research | #cad-sample)
+[create an anchor](#medical-device-projects) | [create an anchor](#research) | [create an anchor](#cad-sample)
 
 [create an anchor](test | test)
 
