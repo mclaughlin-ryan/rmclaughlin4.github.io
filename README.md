@@ -1,3 +1,7 @@
+[create an anchor](<a href="https://rmclaughlin-projects.github.io/#medical-device-projects">Medical Device Projects</a> | 
+  <a href="https://rmclaughlin-projects.github.io/#research">Research</a> | 
+  <a href="https://rmclaughlin-projects.github.io/#cad-sample">CAD Sample</a>)
+
 <p>
   <a href="https://rmclaughlin-projects.github.io/#medical-device-projects">Medical Device Projects</a> | 
   <a href="https://rmclaughlin-projects.github.io/#research">Research</a> | 
