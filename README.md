@@ -28,7 +28,7 @@ This reconstructive breast implant was designed and developed with fellow engine
 
 Video of water retention test after injecting water into the implant
 
-<video width=540px" height="960px" controls>
+<video width=540" height="960" controls>
   <source src="Reconstructive%20breast%20implant%20water%20retention%20test.mp4" type="video/mp4">
 </video>
 
