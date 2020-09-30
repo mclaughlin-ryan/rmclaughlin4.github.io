@@ -48,4 +48,6 @@ Investigating the impact of air pollution on health, specifically particulate ma
 
 This is a CAD assembly of a king chess piece created in Creo Parametric as part of a themed group project for an engineering solid modeling course.
 
-<img src="king chess piece Creo design.png" align="center" width="320px" height="420px">
+<p align="left: 80px">
+  <img src="king chess piece Creo design.png" width="320px" height="420px">
+</p>
