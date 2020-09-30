@@ -21,8 +21,8 @@ An engineering course project, this heart valve was designed as a group effort w
 This reconstructive breast implant was designed and developed with fellow engineering students for a senior course project. With the goal of providing breast reconstruction to patients who had undergone a mastectomy operation, this implant was developed by the curing of silicone in a 3D printed mold to form a single-lumen shell capable of retaining fluid and withstanding outside stresses.
 
 <p align="center">
-  <object data="https://rmclaughlin-projects.github.io/Reconstructive%20breast%20implant%20project%20summary.pdf" type="application/pdf" width="800px" height="500px">
-    <embed src="https://rmclaughlin-projects.github.io/Reconstructive%20breast%20implant%20project%20summary.pdf" type="application/pdf" />
+  <object data="Reconstructive%20breast%20implant%20project%20summary.pdf" type="application/pdf" width="800px" height="500px">
+    <embed src="Reconstructive%20breast%20implant%20project%20summary.pdf" type="application/pdf" />
   </object>
 </p>
 
