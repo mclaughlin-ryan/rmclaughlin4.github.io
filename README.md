@@ -42,7 +42,7 @@ Video of water retention test after injecting water into the implant
 
 ## Research
 
-### Effect of outdoor particulate matter exposure on the human airway's ability to fight bacteria
+### Effect of outdoor particulate matter exposure on the human airway's antibacterial ability
 
 Investigating the impact of air pollution on health, specifically particulate matter, this project focuses on how the human airway's antibacterial properties are affected upon inhalation of particulate matter. Simulating this phenomenon using bench-top methods, samples of particulate matter, bacterial cultures, and antibacterial fluid native to the human airway were intermixed to gain insight into the biological effects of this commonplace occurrence.
 
