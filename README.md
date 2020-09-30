@@ -19,7 +19,7 @@
 An engineering course project, this heart valve was designed as a group effort with the goal of achieving natural valve hemodynamics and a durable implant using a trileaflet architecture and wear-resistant materials.
 
 <p align="center">
-  <object data="Artificial%20aortic%20valve%20project%20presentation.pdf" type="application/pdf" width="800px" height="500px">
+  <object data="Artificial%20aortic%20valve%20project%20presentation.pdf" type="application/pdf" toolbar=0 width="800px" height="500px">
     <embed src="Artificial%20aortic%20valve%20project%20presentation.pdf" type="application/pdf" />
   </object>
 </p>
@@ -29,7 +29,7 @@ An engineering course project, this heart valve was designed as a group effort w
 This reconstructive breast implant was designed and developed with fellow engineering students for a senior course project. With the goal of providing breast reconstruction to patients who had undergone a mastectomy operation, this implant was developed by the curing of silicone in a 3D printed mold to form a single-lumen shell capable of retaining fluid and withstanding outside stresses.
 
 <p align="center">
-  <object data="Reconstructive%20breast%20implant%20project%20summary.pdf" type="application/pdf" width="800px" height="500px">
+  <object data="Reconstructive%20breast%20implant%20project%20summary.pdf" type="application/pdf" toolbar=0 width="800px" height="500px">
     <embed src="Reconstructive%20breast%20implant%20project%20summary.pdf" type="application/pdf" />
   </object>
 </p>
