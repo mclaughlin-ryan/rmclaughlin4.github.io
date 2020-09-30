@@ -25,7 +25,7 @@ An engineering course project, this heart valve was designed as a group effort w
 </p>
 
 <p align="center">
-  <iframe src="Artificial%20aortic%20valve%20project%20presentation.pdf" frameborder="0" width="800px" height="500px">
+  <iframe src="Artificial%20aortic%20valve%20project%20presentation.pdf" frameborder="0" width="800px" height="500px" />
 </p>
 
 ### Reconstructive Breast Implant
