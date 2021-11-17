@@ -40,7 +40,7 @@ This project features a software module that quantifies the amount of calcium wi
   <img src="new_module_full.png" width="800px" height="428px">
 </p>
 
-Modified calcium scoring module showing a CT scan of the heart, and scoring selections on the left.
+Image above shows the modified calcium scoring module with a CT scan of the heart, and scoring selections on the left.
 
 <p align="center">
   <img src="coronary_artery_label_map.png" width="600px" height="212px">
