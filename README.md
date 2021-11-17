@@ -17,7 +17,7 @@ This project features a software tool that allows segmented layers of the retina
 
 <!--<p style="text-align:center">-->
 <center><p>
-  The image above is of the user interface with a retinal OCT image slice (vertical view of the retina) and segmented retinal layers in blue. The front of the retina is at top, the back of the retina is at bottom.
+  The image above is of the user interface with a retinal OCT image slice (vertical view of the retina) and segmented retinal layers in blue. The front of the retina is at top, the back of the retina at bottom.
 </p></center>
 
 <p align="center">
