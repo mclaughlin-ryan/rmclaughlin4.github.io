@@ -16,9 +16,7 @@ This project features a software tool that allows segmented layers of the retina
 </p>
 
 <!--<p style="text-align:center">-->
-<center><p>
-  The image above is of the user interface with a retinal OCT image slice (vertical view of the retina) and segmented retinal layers in blue. The front of the retina is at top, the back of the retina at bottom.
-</p></center>
+The image above is of the user interface with a retinal OCT image slice (vertical view of the retina) and segmented retinal layers in blue. The front of the retina is at top, the back of the retina at bottom.
 
 <p align="center">
   <img src="retina OCT GUI error radius thickness map.png" width="650px" height="350px">
@@ -40,7 +38,7 @@ This project features a software module that quantifies the amount of calcium wi
   <img src="new_module_full.png" width="700px" height="375px">
 </p>
 
-Image above shows the modified calcium scoring module with a CT scan of the heart, and scoring selections on the left.
+<center><p>Image above shows the modified calcium scoring module with a CT scan of the heart, and scoring selections on the left.</p></center>
 
 <p align="center">
   <img src="coronary_artery_label_map.png" width="600px" height="212px">
@@ -52,13 +50,13 @@ Shown above are coronary artery marking labels, where each color corresponds to 
   <img src="scoring_methods_full.png" width="700px" height="375px">
 </p>
 
-A scan with marked arteries as well as different calcium scoring methods that can be chosen (left side).
+<center><p>A scan with marked arteries as well as different calcium scoring methods that can be chosen (left side).</p></center>
 
 <p align="center">
   <img src="label_statistics.png" width="400px" height="289px">
 </p>
 
-This is the calcium score output with scores for each artery and the total calcium score.
+<center><p>This is the calcium score output with scores for each artery and the total calcium score.</p></center>
 
 <!--<p>
   </div>
