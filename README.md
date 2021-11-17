@@ -1,7 +1,29 @@
 <p>
+  <a href="https://rmclaughlin4.github.io/#medical-image-analysis-projects">Medical Image Analysis Projects</a> |
   <a href="https://rmclaughlin4.github.io/#medical-device-projects">Medical Device Projects</a> | 
   <a href="https://rmclaughlin4.github.io/#research">Research</a> | 
   <a href="https://rmclaughlin4.github.io/#cad-sample">CAD Sample</a>
+</p>
+
+## Medical Image Analysis Projects
+
+### Retinal Layer Segmentation (Retinal OCT)
+
+This project features a software tool that allows segmented layers of the retina in a retinal OCT image to be corrected if inaccurate. Accuracy is important in segmenting or marking out the layers of the retina as the layers can be studied to detect morphological changes that may be indicative of ocular disease.
+
+<!--<p align="left: 80px">-->
+<p align="center">
+  <img src="king chess piece Creo design.png" width="320px" height="420px">
+</p>
+
+<!--<p align="left: 80px">-->
+<p align="center">
+  <img src="king chess piece Creo design.png" width="320px" height="420px">
+</p>
+
+<!--<p align="left: 80px">-->
+<p align="center">
+  <img src="king chess piece Creo design.png" width="320px" height="420px">
 </p>
 
 ## Medical Device Projects
