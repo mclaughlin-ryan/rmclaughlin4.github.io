@@ -52,13 +52,13 @@ Shown above are coronary artery marking labels, where each color corresponds to 
   <img src="scoring_methods_full.png" width="800px" height="429px">
 </p>
 
-A scan with marked arteries as well as different calcium scoring methods that can be chosen (left side).
+This is a scan with marked arteries as well as different calcium scoring methods that can be chosen (left side).
 
 <p align="center">
   <img src="label_statistics.png" width="400px" height="289px">
 </p>
 
-Score output with scores for each artery and the total calcium score.
+This is the calcium score output with scores for each artery and the total calcium score.
 
 <!--<p>
   </div>
