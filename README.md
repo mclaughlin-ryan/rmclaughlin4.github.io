@@ -17,14 +17,14 @@ This project features a software tool that allows segmented layers of the retina
 
 <!--<p style="text-align:center">-->
 <center><p>
-  This is the user interface with a retinal OCT image slice and segmented retinal layers in blue.
+  The image above is of the user interface with a retinal OCT image slice and segmented retinal layers in blue.
 </p></center>
 
 <p align="center">
   <img src="retina OCT GUI error radius thickness map.png">
 </p>
 
-The retinal OCT image on the left and a layer thickness map on the right with a segmentation correction feature shown. The correction feature allows the user to choose a point on the retinal image where the segmentation is in error and correct outward from that point at a particular radial distance, as shown on the thickness map. The thickness map, showing a straight-on view of the retina, illustrates the thickness, or number of pixels, in a retinal layer. Brighter shades indicate thicker areas and darker shades indicate thinner areas.
+Above, the retinal OCT image on the left and a layer thickness map on the right with a segmentation correction feature shown. The correction feature allows the user to choose a point on the retinal image where the segmentation is in error and correct outward from that point at a particular radial distance, as shown on the thickness map. The thickness map, showing a straight-on view of the retina, illustrates the thickness, or number of pixels, in a retinal layer. Brighter shades indicate thicker areas and darker shades indicate thinner areas.
 
 <p align="center">
   <img src="retina OCT GUI drawing tool average pixel value map.png">
