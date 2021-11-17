@@ -34,13 +34,13 @@ The image above shows a drawing tool that can be used to correct segmentation. T
 
 ### Coronary Artery Calcium Scoring (Agatston score)
 
-This project features a software module that quantifies the amount of calcium within the coronary arteries on CT scans. The calcium score corresponds to the severity of disease and a measure of risk for an adverse cardiac event. The previously developed module allowed calcium scoring for normal-radiation CT scans, and I had added features to allow scoring for low-radiation CT scans to support lower radiation exposure to patients.
+This project features a software module that quantifies the amount of calcium within the coronary arteries on CT scans. The calcium score corresponds to the severity of disease and a measure of risk for an adverse cardiac event. The previously developed module allowed calcium scoring for normal-radiation CT scans, and features were added to allow scoring for low-radiation CT scans to support lower radiation exposure to patients.
 
 <p align="center">
   <img src="new_module_full.png">
 </p>
 
-The image above is of the modified module with a scan, and scoring selections on the left.
+Modified calcium scoring module showing a CT scan of the heart, and scoring selections on the left.
 
 <p align="center">
   <img src="coronary_artery_label_map.png">
