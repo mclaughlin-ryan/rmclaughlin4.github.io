@@ -15,9 +15,9 @@ This project features a software tool that allows segmented layers of the retina
   <img src="retina OCT GUI.png">
 </p>
 
-<p align="center>
+<center>
   The image above shows the user interface with a retinal OCT image slice and segmented retinal layers in blue.
-</p>
+</center>
 
 <p align="center">
   <img src="retina OCT GUI error radius thickness map.png">
