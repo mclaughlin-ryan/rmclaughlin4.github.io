@@ -38,7 +38,7 @@ This project features a software module that quantifies the amount of calcium wi
 
 
 
-The image above is of the modified module with a scan and scoring selections on the left.
+The image above is of the modified module with a scan, and scoring selections on the left.
 
 
 
