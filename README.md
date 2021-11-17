@@ -7,7 +7,7 @@
 
 ## Medical Image Analysis Projects
 
-### Retinal Layer Segmentation (Retinal OCT)
+### Retinal Layer Segmentation Tool (Retinal OCT Images)
 
 This project features a software tool that allows segmented layers of the retina in a retinal OCT image to be corrected if inaccurate. Accuracy is important in segmenting (or marking out) the layers of the retina as the layers can be studied to detect morphological changes that may be indicative of ocular disease.
 
