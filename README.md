@@ -37,7 +37,7 @@ The image above shows a drawing tool that can be used to correct segmentation. T
 This project features a software module that quantifies the amount of calcium within the coronary arteries on CT scans. The calcium score corresponds to the severity of disease and a measure of risk for an adverse cardiac event. The previously developed module allowed calcium scoring for normal-radiation CT scans, and features were added to allow scoring for low-radiation CT scans to support lower radiation exposure to patients.
 
 <p align="center">
-  <img src="new_module_full.png">
+  <img src="new_module_full.png" width="1000px" height="535px">
 </p>
 
 Modified calcium scoring module showing a CT scan of the heart, and scoring selections on the left.
