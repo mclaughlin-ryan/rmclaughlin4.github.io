@@ -16,20 +16,20 @@ This project features a software tool that allows segmented layers of the retina
 </p>
 
 <p style="text-align:center">
-  The image above shows the user interface with a retinal OCT image slice and segmented retinal layers in blue.
+  This is the user interface with a retinal OCT image slice and segmented retinal layers in blue.
 </p>
 
 <p align="center">
   <img src="retina OCT GUI error radius thickness map.png">
 </p>
 
-This image shows a segmentation correction feature with the retinal OCT image on the left and a layer thickness map on the right. The correction feature allows the user to choose a point on the retinal image where the segmentation is in error and correct outward from that point at a particular radial distance, as shown on the thickness map. The thickness map, showing a straight-on view of the retina, illustrates the thickness, or number of pixels, in a retinal layer. Brighter shades indicate thicker areas and darker shades indicate thinner areas.
+The retinal OCT image on the left and a layer thickness map on the right with a segmentation correction feature shown. The correction feature allows the user to choose a point on the retinal image where the segmentation is in error and correct outward from that point at a particular radial distance, as shown on the thickness map. The thickness map, showing a straight-on view of the retina, illustrates the thickness, or number of pixels, in a retinal layer. Brighter shades indicate thicker areas and darker shades indicate thinner areas.
 
 <p align="center">
   <img src="retina OCT GUI drawing tool average pixel value map.png">
 </p>
 
-This image shows a drawing tool that can be used to correct the segmentation. The retinal OCT image is on the left and an average pixel value map, representing the average value of the pixels in that layer, is on the right. The user can draw on the average pixel map, or projection image, to indicate the area of faulty segmentation or anatomical structures that may be responsible for such error. As can be seen, this area then appears on the left side to mark the region where the layer segmentation is not accurate.
+The retinal OCT image on the left and an average pixel value map, representing the average value of the pixels in that layer, on the right. Also shown is a drawing tool for correcting segmentation. The user can draw on the average pixel map, or projection image, to indicate the area of faulty segmentation or anatomical structures that may be responsible for such error. As can be seen, this area then appears on the left side to mark the region where the layer segmentation is not accurate.
 
 <!--<p>
   </div>
