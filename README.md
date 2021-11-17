@@ -11,6 +11,60 @@
 
 This project features a software tool that allows segmented layers of the retina in a retinal OCT image to be corrected if inaccurate. Accuracy is important in segmenting (or marking out) the layers of the retina as the layers can be studied to detect morphological changes that may be indicative of ocular disease.
 
+<p align="center">
+  <img src="retina OCT GUI.png">
+</p>
+
+The above image shows the user interface with a retinal OCT image slice and segmented retinal layers in blue.
+
+<p align="center">
+  <img src="retina OCT GUI error radius thickness map.png">
+</p>
+
+This image shows a segmentation correction feature with the retinal OCT image on the left and a layer thickness map on the right. The correction feature allows the user to choose a point on the retinal image where the segmentation is in error and correct outwards from that point for a particular radial distance, as shown on the thickness map. The thickness map, showing a straight-on view of the retina, illustrates the thickness, or number of pixels, in a retinal layer. Brighter shades indicate thicker areas and darker shades indicate thinner areas.
+
+<p align="center">
+  <img src="retina OCT GUI drawing tool average pixel value map.png">
+</p>
+
+This image shows a drawing tool that can be used to correct the segmentation. The retinal OCT image is on the left and an average pixel value map, representing the average value of the pixels in that layer, is on the right. The user can draw on the average pixel map, or projection image, to indicate the area of faulty segmentation or anatomical structures that may be responsible for such error. As can be seen, this area then appears on the left side to mark the region where the layer segmentation is not accurate.
+
+<!--<table width="99%">
+  <tr>
+    <td>
+      <img src="king chess piece Creo design.png" width="320px" height="420px">
+    </td>
+    <td>
+      <p align="center">
+        <img src="king chess piece Creo design.png" width="320px" height="420px">
+      </p>
+    </td>
+    <td>
+      <p align="right">
+        <img src="king chess piece Creo design.png" width="320px" height="420px">
+      </p>
+    </td>
+  </tr>
+</table>-->
+
+<table width="99%">
+  <tr>
+    <td>
+      <img src="king chess piece Creo design.png" width="320px" height="420px">
+    </td>
+    <td>
+      <p align="center">
+        <img src="king chess piece Creo design.png" width="320px" height="420px">
+      </p>
+    </td>
+    <td>
+      <p align="right">
+        <img src="king chess piece Creo design.png" width="320px" height="420px">
+      </p>
+    </td>
+  </tr>
+</table>
+
 <table width="99%">
   <tr>
     <td>
@@ -41,14 +95,14 @@ This project features a software tool that allows segmented layers of the retina
 </p>-->
 
 <!--<p align="left: 80px">-->
-<p align="center">
+<!--<p align="center">
   <img src="king chess piece Creo design.png" width="320px" height="420px">
-</p>
+</p>-->
 
 <!--<p align="left: 80px">-->
-<p align="right">
+<!--<p align="right">
   <img src="king chess piece Creo design.png" width="320px" height="420px">
-</p>
+</p>-->
 
 ## Medical Device Projects
 
