@@ -36,19 +36,27 @@ The image above shows a drawing tool that can be used to correct segmentation. T
 
 This project features a software module that quantifies the amount of calcium within the coronary arteries on CT scans. The calcium score corresponds to the severity of disease and a measure of risk for an adverse cardiac event. The previously developed module allowed calcium scoring for normal-radiation CT scans, and I had added features to allow scoring for low-radiation CT scans to support lower radiation exposure to patients.
 
-
+<p align="center">
+  <img src="new_module_full.png">
+</p>
 
 The image above is of the modified module with a scan, and scoring selections on the left.
 
-
+<p align="center">
+  <img src="coronary_artery_label_map.png">
+</p>
 
 Coronary artery marking labels, where each color corresponds to a different artery branch that, if being bright enough in the scan and thus indicating calcification, can be manually marked by the respective label to factor into the calcium score.
 
-
+<p align="center">
+  <img src="scoring_methods_full.png">
+</p>
 
 A scan with marked arteries as well as different calcium scoring methods that can be chosen (left side).
 
-
+<p align="center">
+  <img src="label_statistics.png">
+</p>
 
 Score output with scores for each artery and the total calcium score.
 
