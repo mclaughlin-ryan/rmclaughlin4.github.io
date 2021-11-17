@@ -30,7 +30,7 @@ This shows the retinal OCT image on the left and a layer thickness map on the ri
   <img src="retina OCT GUI drawing tool average pixel value map.png" width="650px" height="345px">
 </p>
 
-Image above shows a drawing tool that can be used to correct segmentation. The retinal OCT image is on the left and an average pixel value map, representing the average value of the pixels in that layer, is on the right. The user can draw on the average pixel map, or projection image, to indicate the area of faulty segmentation or anatomical structures that may be responsible for such error. As can be seen, this area then appears on the left side to mark the region where the layer segmentation is not accurate.
+Image above shows a drawing tool that can be used to correct segmentation. The retinal OCT image is on the left and an average pixel value map, representing the average value of the pixels in that layer, is on the right. The user can draw on the average pixel map (or projection image) to indicate the area of faulty segmentation or anatomical structures that may be responsible for such error. As can be seen, this area then appears on the left side to mark the region where the layer segmentation is not accurate.
 
 ### Coronary Artery Calcium Scoring (Agatston score)
 
