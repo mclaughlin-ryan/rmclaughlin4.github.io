@@ -46,7 +46,7 @@ Image above shows the modified calcium scoring module with a CT scan of the hear
   <img src="coronary_artery_label_map.png" width="600px" height="212px">
 </p>
 
-Shown above are coronary artery marking labels, where each color corresponds to a different artery branch that, if being bright enough in the scan and thus indicating calcification, can be manually marked by the respective label to factor into the calcium score.
+Shown above are coronary artery marking labels, where each color corresponds to a different artery branch that, if being bright enough in the scan and thus signifying calcification, can be manually marked by the respective label to factor into the calcium score.
 
 <p align="center">
   <img src="scoring_methods_full.png" width="800px" height="429px">
