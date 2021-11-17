@@ -15,7 +15,7 @@ This project features a software tool that allows segmented layers of the retina
   <img src="retina OCT GUI.png">
 </p>
 
-The above image shows the user interface with a retinal OCT image slice and segmented retinal layers in blue.
+The image above shows the user interface with a retinal OCT image slice and segmented retinal layers in blue.
 
 <p align="center">
   <img src="retina OCT GUI error radius thickness map.png">
@@ -28,60 +28,6 @@ This image shows a segmentation correction feature with the retinal OCT image on
 </p>
 
 This image shows a drawing tool that can be used to correct the segmentation. The retinal OCT image is on the left and an average pixel value map, representing the average value of the pixels in that layer, is on the right. The user can draw on the average pixel map, or projection image, to indicate the area of faulty segmentation or anatomical structures that may be responsible for such error. As can be seen, this area then appears on the left side to mark the region where the layer segmentation is not accurate.
-
-<!--<table width="99%">
-  <tr>
-    <td>
-      <img src="king chess piece Creo design.png" width="320px" height="420px">
-    </td>
-    <td>
-      <p align="center">
-        <img src="king chess piece Creo design.png" width="320px" height="420px">
-      </p>
-    </td>
-    <td>
-      <p align="right">
-        <img src="king chess piece Creo design.png" width="320px" height="420px">
-      </p>
-    </td>
-  </tr>
-</table>-->
-
-<table width="99%">
-  <tr>
-    <td>
-      <img src="king chess piece Creo design.png" width="320px" height="420px">
-    </td>
-    <td>
-      <p align="center">
-        <img src="king chess piece Creo design.png" width="320px" height="420px">
-      </p>
-    </td>
-    <td>
-      <p align="right">
-        <img src="king chess piece Creo design.png" width="320px" height="420px">
-      </p>
-    </td>
-  </tr>
-</table>
-
-<table width="99%">
-  <tr>
-    <td>
-      <img src="king chess piece Creo design.png" width="320px" height="420px">
-    </td>
-    <td>
-      <p align="center">
-        <img src="king chess piece Creo design.png" width="320px" height="420px">
-      </p>
-    </td>
-    <td>
-      <p align="right">
-        <img src="king chess piece Creo design.png" width="320px" height="420px">
-      </p>
-    </td>
-  </tr>
-</table>
 
 <!--<p>
   </div>
