@@ -23,6 +23,18 @@ This project features a software tool that allows segmented layers of the retina
   </div>
 </div>
 
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
 <!--<p align="left: 80px">-->
 <p align="center">
   <img src="king chess piece Creo design.png" width="320px" height="420px">
