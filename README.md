@@ -21,7 +21,7 @@ The image above shows the user interface with a retinal OCT image slice and segm
   <img src="retina OCT GUI error radius thickness map.png">
 </p>
 
-This image shows a segmentation correction feature with the retinal OCT image on the left and a layer thickness map on the right. The correction feature allows the user to choose a point on the retinal image where the segmentation is in error and correct outwards from that point for a particular radial distance, as shown on the thickness map. The thickness map, showing a straight-on view of the retina, illustrates the thickness, or number of pixels, in a retinal layer. Brighter shades indicate thicker areas and darker shades indicate thinner areas.
+This image shows a segmentation correction feature with the retinal OCT image on the left and a layer thickness map on the right. The correction feature allows the user to choose a point on the retinal image where the segmentation is in error and correct outward from that point at a particular radial distance, as shown on the thickness map. The thickness map, showing a straight-on view of the retina, illustrates the thickness, or number of pixels, in a retinal layer. Brighter shades indicate thicker areas and darker shades indicate thinner areas.
 
 <p align="center">
   <img src="retina OCT GUI drawing tool average pixel value map.png">
