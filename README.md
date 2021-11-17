@@ -32,7 +32,7 @@ The retinal OCT image on the left and a layer thickness map on the right with a 
 
 The image above shows a drawing tool that can be used to correct segmentation. The retinal OCT image is on the left and an average pixel value map, representing the average value of the pixels in that layer, is on the right. The user can draw on the average pixel map, or projection image, to indicate the area of faulty segmentation or anatomical structures that may be responsible for such error. As can be seen, this area then appears on the left side to mark the region where the layer segmentation is not accurate.
 
-### Coronary Artery Calcium Scoring (Calcium Agatston Scoring)
+### Coronary Artery Calcium Scoring (Agatston score)
 
 This project features a software module that quantifies the amount of calcium within the coronary arteries on CT scans. The calcium score corresponds to the severity of disease and a measure of risk for an adverse cardiac event. The previously developed module allowed calcium scoring for normal-radiation CT scans, and I had added features to allow scoring for low-radiation CT scans to support lower radiation exposure to patients.
 
