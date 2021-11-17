@@ -24,13 +24,13 @@ This project features a software tool that allows segmented layers of the retina
   <img src="retina OCT GUI error radius thickness map.png" width="650px" height="350px">
 </p>
 
-The retinal OCT image on the left and a layer thickness map on the right with a segmentation correction feature shown. The correction feature allows the user to choose a point on the retinal image where the segmentation is in error and correct outward from that point at a particular radial distance, as shown on the thickness map. The thickness map, showing a straight-on view of the retina, illustrates the thickness, or number of pixels, in a retinal layer. Brighter shades indicate thicker areas and darker shades indicate thinner areas.
+This shows the retinal OCT image on the left and a layer thickness map on the right along with a segmentation correction feature shown. The correction feature allows the user to choose a point on the retinal image where the segmentation is in error and correct outward from that point at a particular radial distance, as shown on the thickness map. The thickness map, showing a straight-on view of the retina, illustrates the thickness, or number of pixels, in a retinal layer. Brighter shades indicate thicker areas and darker shades indicate thinner areas.
 
 <p align="center">
   <img src="retina OCT GUI drawing tool average pixel value map.png" width="650px" height="345px">
 </p>
 
-The image above shows a drawing tool that can be used to correct segmentation. The retinal OCT image is on the left and an average pixel value map, representing the average value of the pixels in that layer, is on the right. The user can draw on the average pixel map, or projection image, to indicate the area of faulty segmentation or anatomical structures that may be responsible for such error. As can be seen, this area then appears on the left side to mark the region where the layer segmentation is not accurate.
+Image above shows a drawing tool that can be used to correct segmentation. The retinal OCT image is on the left and an average pixel value map, representing the average value of the pixels in that layer, is on the right. The user can draw on the average pixel map, or projection image, to indicate the area of faulty segmentation or anatomical structures that may be responsible for such error. As can be seen, this area then appears on the left side to mark the region where the layer segmentation is not accurate.
 
 ### Coronary Artery Calcium Scoring (Agatston score)
 
